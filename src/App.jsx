@@ -154,9 +154,9 @@ export default function App() {
             <p className="lead">행사 날짜, 장소, 예상 인원을 알려 주시면 맞춤 견적을 보내 드립니다.</p>
             <dl>
               <div><dt>Tel</dt><dd><a href="tel:010-5455-7324">010-5455-7324</a></dd></div>
-              <div><dt>E-mail</dt><dd><a href="mailto:dongockgge15@gmail.com">dongockgge15@gmail.com</a></dd></div>
+              <div><dt>E-mail</dt><dd><a href="mailto:dong-ockgge@hanmail.net">dong-ockgge@hanmail.net</a></dd></div>
             </dl>
-            <a className="btn" href="mailto:dongockgge15@gmail.com?subject=%EB%A7%88%EC%88%A0%20%EA%B3%B5%EC%97%B0%20%EC%84%AD%EC%99%B8%20%EB%AC%B8%EC%9D%98">이메일로 문의하기</a>
+            <a className="btn" href="mailto:dong-ockgge@hanmail.net?subject=%EB%A7%88%EC%88%A0%20%EA%B3%B5%EC%97%B0%20%EC%84%AD%EC%99%B8%20%EB%AC%B8%EC%9D%98">이메일로 문의하기</a>
           </div>
         </section>
       </main>
